@@ -17,4 +17,5 @@ This project implements a **2-way traffic light controller** on FPGA using **FSM
 | S2    | Red      | Green    | 10 sec   |
 | S3    | Red      | Yellow   | 3 sec    |
 
-
+For simulation and synthesis
+-use quartus prime/vivado with the help of FPGA(zedboard)
